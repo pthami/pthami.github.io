@@ -17,6 +17,11 @@ Causal inference · Experimental design · Mechanism design · Simulation · Pyt
 
 ---
 
+## Instruction & Mentorship
+Taught graduate-level courses in advanced microeconomics, econometrics, time series analysis, and empirical finance, with a focus on applied quantitative reasoning and clear communication of complex models.
+
+---
+
 ## Selected Research & Applied Work
 
 ### Incentives and truth-telling in priority pricing systems
