@@ -1,10 +1,8 @@
 ---
 permalink: /
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
+
 ## About
 <strong>Applied economist</strong> with a PhD, working on data-driven decision problems using causal inference, experiments, and predictive modeling. Strong background in Python, statistical modeling, and computational methods, with experience across research, consulting, and applied projects.
 
