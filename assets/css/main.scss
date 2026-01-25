@@ -1,23 +1,13 @@
 ---
 ---
 
-/*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
-
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "vendor/breakpoint/breakpoint";
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
 
 @import "reset";
 @import "base";
-
 @import "utilities";
 @import "animations";
 @import "tables";
@@ -27,9 +17,7 @@
 @import "navigation";
 @import "footer";
 @import "syntax";
-
 @import "forms";
-
 @import "page";
 @import "archive";
 @import "sidebar";
@@ -40,20 +28,11 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* =========================
+   Custom overrides only
+   ========================= */
 
-  // Apply styles to menu links within .masthead__menu
-  .masthead .masthead__inner-wrap .masthead__menu a {
-    color: $text-color !important; // Set text color for menu links to white
-    padding: 10px !important; // Add padding for better touch support
-    display: block !important; // Make each link take the full width of the menu
-    text-decoration: none !important; // Remove underline from the links
-    background-color: $header-bg-color !important; // Remove any custom background colors
-    border: $header-bg-color !important; // Remove any custom borders
-  }
-
-}
-
-/* Sidebar avatar */
+/* Rounded avatar */
 .sidebar img {
   border-radius: 12px !important;
 }
@@ -62,28 +41,20 @@
   margin-bottom: 2.5rem;
 }
 
-/* Wider content */
+/* Wider content area */
 .page__content {
   max-width: 1300px;
 }
 
-/* Minimal top border, no title */
+/* Thin top border only */
 .masthead {
   height: 4px;
   background-color: #3a506b;
   border: none;
 }
 
+/* Remove site title / name */
 .masthead__title,
 .masthead__title a {
   display: none !important;
 }
-
-.page__content {
-  max-width: 1300px;
-}
-.site-title,
-.site-title a {
-  display: none !important;
-}
-
