@@ -96,6 +96,8 @@ body {
 
 }
 
-.author__avatar img {
-  border-radius: 35%;
+.author__avatar img,
+.author__avatar a img,
+.sidebar .author__avatar img {
+  border-radius: 35% !important;
 }
