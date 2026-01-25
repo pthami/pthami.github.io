@@ -62,3 +62,9 @@ body::before {
   height: 4px;
   background: #3a506b;
 }
+
+@media (min-width: 64em) {
+  .page__content {
+    padding-left: 3rem;
+  }
+}
