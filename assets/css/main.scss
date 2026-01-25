@@ -46,15 +46,12 @@
   max-width: 1300px;
 }
 
-/* Thin top border only */
+/* Kill masthead completely */
 .masthead {
-  height: 4px;
-  background-color: #3a506b;
-  border: none;
+  display: none !important;
 }
 
-/* Remove site title / name */
-.masthead__title,
-.masthead__title a {
-  display: none !important;
+body {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
 }
