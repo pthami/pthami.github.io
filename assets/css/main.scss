@@ -32,9 +32,18 @@
    Custom overrides only
    ========================= */
 
-/* Rounded avatar */
-.sidebar img {
-  border-radius: 12px !important;
+/* Avatar */
+.author__avatar {
+  width: 140px;
+  height: 190px;
+  overflow: hidden;
+}
+
+.author__avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 12px;
 }
 
 .author__avatar {
