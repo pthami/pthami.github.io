@@ -40,49 +40,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-// Variables for customization
-$header-height: 80px;
-$header-bg-color: #3a506b; // Muted blue color
-$text-color: #FFFFFF;
-
-.masthead {
-  background-color: $header-bg-color; // Set the background color to muted blue
-  height: $header-height; // Set the height of the header
-  color: $text-color;
-  border: none;
-}
-
-// Ensure no unwanted background or borders on header items
-.masthead * {
-  background: none !important; // Remove any background colors
-  box-shadow: none !important; // Remove any box shadows
-  border: none !important; // Remove any borders
-  color: $text-color !important;
-}
-
-// Adjust the top margin of the main content to accommodate the header height
-body {
-  margin-top: $header-height; // Adds space to prevent content overlap
-}
-
-
-// Mobile view styles
-@media (max-width: 768px) {
-  // Ensure the menu is visible by default for testing
-  .masthead .masthead__inner-wrap .masthead__menu {
-    display: block !important; // Ensure the menu is always visible
-    background-color: $header-bg-color !important; // Set the background color to match the header
-    color: $text-color !important; // Ensure the text color is white
-    border: 2px solid $header-bg-color; // Add a border with the same color as the header
-    border-radius: 4px; // Optional: Add rounded corners
-    padding: 10px; // Add padding inside the menu for spacing
-    position: absolute !important; // Position the menu correctly
-    width: 100% !important; // Make the menu take the full width
-    z-index: 9999 !important; // Ensure the menu is above other elements
-    top: 100%; // Position the menu just below the header
-    left: 0; // Align menu to the left edge
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); // Optional: Add a subtle shadow for depth
-  }
 
   // Apply styles to menu links within .masthead__menu
   .masthead .masthead__inner-wrap .masthead__menu a {
@@ -96,11 +53,30 @@ body {
 
 }
 
+/* Sidebar avatar */
 .sidebar img {
   border-radius: 12px !important;
 }
+
 .author__avatar {
   margin-bottom: 2.5rem;
+}
+
+/* Wider content */
+.page__content {
+  max-width: 1300px;
+}
+
+/* Minimal top border, no title */
+.masthead {
+  height: 4px;
+  background-color: #3a506b;
+  border: none;
+}
+
+.masthead__title,
+.masthead__title a {
+  display: none !important;
 }
 
 .page__content {
