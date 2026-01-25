@@ -43,7 +43,7 @@ Developed a pricing framework showing how reimbursement schemes affect costs whe
 ### Labour migration, skills, and resilience (Nepal)
 Contributed to applied policy research on labor migration, skills training, and household resilience following natural disasters. Work informed recommendations on vocational training and migration policy in low-income settings.  
 **Methods:** survey analysis · policy analysis  
-*(with :contentReference[oaicite:0]{index=0})*
+
 
 
 
