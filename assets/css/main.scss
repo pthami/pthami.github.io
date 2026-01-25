@@ -33,9 +33,9 @@
    ========================= */
 
 /* Avatar */
-.author__avatar {
+..author__avatar {
   width: 140px;
-  height: 190px;
+  height: 150px; /* subtle vertical bias */
   overflow: hidden;
 }
 
@@ -43,7 +43,7 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
-  border-radius: 12px;
+  border-radius: 18px;
 }
 
 .author__avatar {
