@@ -106,3 +106,8 @@ body {
 .page__content {
   max-width: 1300px;
 }
+.site-title,
+.site-title a {
+  display: none !important;
+}
+
