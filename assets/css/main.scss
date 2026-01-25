@@ -93,3 +93,35 @@ body {
 .page__content h3 {
   font-weight: 500;
 }
+
+/* =========================
+   Content spacing & hierarchy
+   ========================= */
+
+/* Section spacing */
+.page__content h2 {
+  margin-top: 3rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+
+.page__content h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.25rem;
+  font-size: 1.05rem;
+  font-weight: 500;
+}
+
+/* Paragraph breathing room */
+.page__content p {
+  margin-bottom: 1.2rem;
+}
+
+/* Optional subtle divider (use sparingly in Markdown) */
+.section-divider {
+  height: 1px;
+  background: #e5e7eb;
+  margin: 3rem 0;
+}
+
