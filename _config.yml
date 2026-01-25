@@ -210,13 +210,7 @@ kramdown:
 
 
 # These settings control the types of collections used by the template
-collections:
-  teaching:
-    output: true
-    permalink: /teaching/:path/
-  research:
-    output: true
-    permalink: /research/:path/
+collections: {}
 
 
 # These settings control how pages and collections are included in the site
