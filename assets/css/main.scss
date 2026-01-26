@@ -120,12 +120,8 @@ body {
 
 .page__content hr {
   border: none;
-  height: 1px;
-  background: linear-gradient(
-    to right,
-    transparent,
-    #cbd5e1,
-    transparent
-  );
+  height: 2px;
+  background-color: #9ca3af;
+  width: 40%;
   margin: 3rem 0;
 }
