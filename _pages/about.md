@@ -33,12 +33,11 @@ Analyzed how beliefs and truth-telling shape outcomes in priority pricing system
 
 
 ### Pricing design and provider incentives in publicly funded services
-*(Economic Modelling, 2024)*
 
 Developed and optimized pricing schemes to show how reimbursement design affects costs when providers have patient-selection incentives. Applied to Swedish personal assistance services; numerical results indicate substantial cost savings from modest deviations from uniform pricing.
 
 [Paper (Economic Modelling, 2024)] • [Code]  
-**Methods:** theoretical modeling • optimization • numerical analysis
+Methods: theoretical modeling • optimization • numerical analysis
 
 
 
