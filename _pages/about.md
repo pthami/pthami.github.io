@@ -37,7 +37,7 @@ Analyzed how beliefs and truth-telling shape outcomes in priority pricing system
 Developed and optimized pricing schemes to show how reimbursement design affects costs when providers have patient-selection incentives. Applied to Swedish personal assistance services; numerical results indicate substantial cost savings from modest deviations from uniform pricing.
 
 **Methods:** theoretical modeling • optimization • numerical analysis  
-[Paper (Economic Modelling, 2024)](https://www.sciencedirect.com/science/article/pii/S0264999324002736) • [Code]  
+[Paper (Economic Modelling, 2024)](https://www.sciencedirect.com/science/article/pii/S0264999324002736) • [Code](https://data.mendeley.com/datasets/rx35j3j8nr/1)  
 
 
 ### Equity–efficiency trade-offs in blood supply allocation
