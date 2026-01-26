@@ -29,14 +29,23 @@
 @import "print";
 
 /* =========================
-   Custom overrides only
+   Custom overrides
    ========================= */
 
-/* Avatar */
+/* --- Typography --- */
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+               Roboto, Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+/* --- Sidebar avatar --- */
 .author__avatar {
   width: 140px;
-  height: 150px; /* subtle vertical bias */
+  height: 150px;
   overflow: hidden;
+  margin-bottom: 2rem;
 }
 
 .author__avatar img {
@@ -46,23 +55,14 @@
   border-radius: 18px;
 }
 
-.author__avatar {
-  margin-bottom: 2rem;
+/* Push social links lower */
+.author__urls-wrapper {
+  margin-top: 4rem;
 }
 
-/* Wider content area */
+/* --- Content width & spacing --- */
 .page__content {
   max-width: 1300px;
-}
-
-/* Kill masthead completely */
-.masthead {
-  display: none !important;
-}
-
-body {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
 }
 
 @media (min-width: 64em) {
@@ -71,57 +71,44 @@ body {
   }
 }
 
-.author__urls-wrapper {
-  margin-top: 4rem;
-}
-
-body {
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
-               Roboto, Helvetica, Arial, sans-serif;
-  font-size: 17px;
-  line-height: 1.6;
-}
-
-.page__content h2,
-.page__content h3 {
-  font-weight: 500;
-}
-
-/* =========================
-   Content spacing & hierarchy
-   ========================= */
-
-/* Section spacing */
-.page__content h2 {
-  margin-top: 3rem;
-  margin-bottom: 0.75rem;
-  font-size: 1.3rem;
-  font-weight: 500;
-}
-
-.page__content h3 {
-  margin-top: 2rem;
-  margin-bottom: 0.25rem;
-  font-size: 1.05rem;
-  font-weight: 500;
-}
-
-/* Paragraph breathing room */
+/* Paragraph spacing */
 .page__content p {
   margin-bottom: 1.2rem;
 }
 
-/* Optional subtle divider (use sparingly in Markdown) */
-.section-divider {
-  height: 1px;
-  background: #e5e7eb;
-  margin: 3rem 0;
+/* --- Section hierarchy --- */
+.page__content h2 {
+  font-size: 1.3rem;
+  font-weight: 500;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  position: relative;
+  padding-bottom: 0.75rem;
 }
 
-.page__content hr {
-  border: none;
-  height: 2px;
-  background-color: #6b7280; /* dark gray */
-  margin: 3rem 0;
+/* Visible underline under section headings */
+.page__content h2::after {
+  content: "";
+  display: block;
+  height: 3px;
+  width: 80px;
+  background-color: #6b7280;
+  margin-top: 0.75rem;
 }
 
+.page__content h3 {
+  font-size: 1.05rem;
+  font-weight: 500;
+  margin-top: 2rem;
+  margin-bottom: 0.25rem;
+}
+
+/* --- Remove header/masthead completely --- */
+.masthead {
+  display: none !important;
+}
+
+body {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
