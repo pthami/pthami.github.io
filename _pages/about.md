@@ -22,7 +22,7 @@ Applied economist with a PhD, working on pricing, incentives, and behavior in ap
 
 Analyzed how beliefs and truth-telling shape outcomes in priority pricing systems, combining economic modeling with online experiments to identify when such mechanisms improve overall outcomes.
  
-**Methods:** game theory • experimental design • simulation  
+**Methods:** Game theory • Experimental design • Simulation  
 **Links:** [Working Paper](/files/JMP_Thami.pdf) • [Code](https://github.com/prakritithami/priority_pricing) 
 
 
@@ -31,7 +31,7 @@ Analyzed how beliefs and truth-telling shape outcomes in priority pricing system
 
 Developed and optimized pricing schemes to show how reimbursement design affects costs when providers have patient-selection incentives. Applied to Swedish personal assistance services; numerical results indicate substantial cost savings from modest deviations from uniform pricing.
 
-**Methods:** theoretical modeling • optimization • numerical analysis  
+**Methods:** Theoretical modeling • Optimization • Numerical analysis  
 **Links:** [Paper (Economic Modelling, 2024)](https://www.sciencedirect.com/science/article/pii/S0264999324002736) • [Code](https://data.mendeley.com/datasets/rx35j3j8nr/2)  
 
 
@@ -39,7 +39,7 @@ Developed and optimized pricing schemes to show how reimbursement design affects
 
 Analyzed blood allocation rules using simulations to show when equity-driven pooling reduces total patients treated.
 
-**Methods:** mechanism design • simulation  
+**Methods:** Mechanism design • Simulation  
 **Links:** [Working Paper](/files/blood_paper.pdf) • [Code]
 
 
