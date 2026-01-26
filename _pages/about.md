@@ -11,9 +11,10 @@ Applied economist with a PhD, working on data-driven decision problems using cau
 
 
 ## Methods & Tools
-Methods   — Causal inference · Experimental design · Market design · Simulation · Applied econometrics  
-Tools     — Python · R · Stata · SQL  
-Workflow  — Jupyter notebooks · Excel · Power BI · LaTeX · Qualtrics
+Methods — Causal inference · Experimental design · Market design · Simulation · Applied econometrics  
+Tools — Python · R · Stata · SQL  
+Workflow — Jupyter notebooks · Qualtrics · Excel · Power BI · LaTeX
+
 
 
 ## Instruction & Mentorship
