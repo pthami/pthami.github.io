@@ -4,7 +4,7 @@ author_profile: true
 title: ""
 ---
 
-## ABOUT
+## About
 Applied economist with a PhD, working on pricing, incentives, and behavior in applied decision problems. I use causal inference, experiments, and simulation to evaluate trade-offs, test ideas, and inform policy and business decisions, with experience across academic research, consulting, and applied projects.
 
 
@@ -16,8 +16,9 @@ Workflow — Jupyter notebooks · Qualtrics · Excel · Power BI · LaTeX
 
 
 
-## Instruction & Mentorship
-Taught graduate-level courses in advanced microeconomics, econometrics, time series analysis, and empirical finance, with a focus on applied quantitative reasoning and clear communication of complex models.
+## Teaching
+Graduate-level teaching in microeconomics, econometrics, time series analysis, and empirical finance.
+
 
 
 ## Selected Research & Applied Work
