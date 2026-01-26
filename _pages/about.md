@@ -26,27 +26,32 @@ Taught graduate-level courses in microeconomics, econometrics, time series analy
 ### Incentives and truth-telling in priority pricing systems
 *(Working paper)*
 
-Analyzed how beliefs and truth-telling behavior shape welfare outcomes in priority pricing systems. Combined economic modeling with online experiments to identify when incentive schemes improve allocation efficiency.
+Analyzed how beliefs and truth-telling shape outcomes in priority pricing systems, combining economic modeling with online experiments to identify when such mechanisms improve overall outcomes.
 
 [Paper] • [Code]  
 *Methods:* game theory • experimental design • simulation
 
 
 
+### Pricing design and provider incentives in publicly funded services
+*(Economic Modelling, 2024)*
+
+Developed and optimized pricing schemes to show how reimbursement design affects costs when providers have patient-selection incentives. Applied to Swedish personal assistance services; numerical results indicate substantial cost savings from modest deviations from uniform pricing.
+
+[Paper] • [Code]  
+**Methods:** theoretical modeling • optimization • numerical analysis
+
+
+
 ### Equity–efficiency trade-offs in blood supply allocation
 *(Working paper)*  
 
-Analyzed blood allocation rules to quantify trade-offs between equity and efficiency. Used simulations to show when equity-driven pooling reduces the total number of patients treated, highlighting risks of well-intentioned but inefficient allocation policies.
+Analyzed blood allocation rules using simulations to show when equity-driven pooling reduces total patients treated.
 
 [Paper] • [Code]  
 *Methods:* mechanism design • simulation
 
 
-
-### Pricing design and provider incentives in publicly funded services
-Developed a pricing framework showing how reimbursement schemes affect costs when providers have patient-selection incentives. Applied to Swedish personal assistance services; numerical analysis indicates substantial cost savings from modest deviations from uniform pricing.  
-**Methods:** theoretical modeling · numerical analysis  
-*(Economic Modelling, 2024)*
 
 
 
