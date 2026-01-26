@@ -10,9 +10,9 @@ Applied economist with a PhD, working on pricing, incentives, and behavior in ap
 
 
 ## Methods & Tools
-**Methods** — Causal inference · Experimental design · Market design · Simulation · Econometrics  
-**Tools** — Python · R · MATLAB · Stata · SQL  
-**Workflow** — Jupyter notebooks · Qualtrics · Excel · Power BI · LaTeX
+**Methods** — Causal inference • Experimental design • Market design • Simulation • Econometrics  
+**Tools** — Python • R • MATLAB • Stata • SQL  
+**Workflow** — Jupyter notebooks • Qualtrics • Excel • Power BI • LaTeX
 
 
 
