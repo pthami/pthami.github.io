@@ -4,14 +4,15 @@ author_profile: true
 title: ""
 ---
 
-## About
+## ABOUT
 Applied economist with a PhD, working on data-driven decision problems using causal inference, experiments, and predictive modeling. Strong background in Python, statistical modeling, and computational methods, with experience across research, consulting, and applied projects.
 
 
 
 
 ## Methods & Tools
-Causal inference · Experimental design · Mechanism design · Simulation · Python · Statistical modeling
+Methods — Causal inference · Experimental design · Mechanism design · Simulation  
+Tools — Python · Statistical modeling
 
 
 
