@@ -118,3 +118,14 @@ body {
   margin: 3rem 0;
 }
 
+.page__content hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    #cbd5e1,
+    transparent
+  );
+  margin: 3rem 0;
+}
