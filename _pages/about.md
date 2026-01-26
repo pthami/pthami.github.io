@@ -28,7 +28,6 @@ Taught graduate-level courses in microeconomics, econometrics, time series analy
 Analyzed how beliefs and truth-telling shape outcomes in priority pricing systems, combining economic modeling with online experiments to identify when such mechanisms improve overall outcomes.
  
 *Methods:* game theory • experimental design • simulation  
-
 [Working Paper] • [Code] 
 
 
@@ -37,19 +36,16 @@ Analyzed how beliefs and truth-telling shape outcomes in priority pricing system
 
 Developed and optimized pricing schemes to show how reimbursement design affects costs when providers have patient-selection incentives. Applied to Swedish personal assistance services; numerical results indicate substantial cost savings from modest deviations from uniform pricing.
 
+Methods: theoretical modeling • optimization • numerical analysis  
 [Paper (Economic Modelling, 2024)] • [Code]  
-Methods: theoretical modeling • optimization • numerical analysis
-
 
 
 ### Equity–efficiency trade-offs in blood supply allocation
 
 Analyzed blood allocation rules using simulations to show when equity-driven pooling reduces total patients treated.
 
-[Working Paper] • [Code]  
-*Methods:* mechanism design • simulation
-
-
+*Methods:* mechanism design • simulation  
+[Working Paper] • [Code]
 
 
 
