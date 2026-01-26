@@ -16,11 +16,6 @@ Applied economist with a PhD, working on pricing, incentives, and behavior in ap
 
 
 
-## Teaching
-Taught graduate-level courses in microeconomics, econometrics, time series analysis, and empirical finance.
-
-
-
 ## Selected Research & Applied Work
 
 ### Incentives and truth-telling in priority pricing systems
