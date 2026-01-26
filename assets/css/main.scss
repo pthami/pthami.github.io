@@ -87,13 +87,10 @@ body {
 }
 
 /* Visible underline under section headings */
-.page__content h2::after {
-  content: "";
-  display: block;
-  height: 2px;
-  width: 180px;
-  background-color: #9ca3af;
-  margin-top: 0.75rem;
+.page__content h2 {
+  border-bottom: 1px solid #d1d5db;
+  padding-bottom: 0.75rem;
+  margin-bottom: 2rem;
 }
 
 .page__content h3 {
