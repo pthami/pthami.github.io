@@ -16,7 +16,7 @@ Applied economist with a PhD, working on pricing, incentives, and behavior in ap
 
 
 
-## Selected Research & Applied Work
+## Research & Applications
 
 ### Incentives and truth-telling in priority pricing systems
 
