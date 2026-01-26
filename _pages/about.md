@@ -5,8 +5,7 @@ title: ""
 ---
 
 ## ABOUT
-Applied economist with a PhD, working on data-driven decision problems using causal inference, experiments, and predictive modeling. Strong background in Python, statistical modeling, and computational methods, with experience across research, consulting, and applied projects.
-
+Applied economist with a PhD, working on pricing, incentives, and behavior in applied decision problems. I use causal inference, experiments, and simulation to evaluate trade-offs, test ideas, and inform policy and business decisions, with experience across academic research, consulting, and applied projects.
 
 
 
