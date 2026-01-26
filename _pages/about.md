@@ -36,7 +36,7 @@ Analyzed how beliefs and truth-telling behavior shape welfare outcomes in priori
 ### Equity–efficiency trade-offs in blood supply allocation
 *(Working paper)*  
 
-Studied allocation rules for ABO-compatible pooling and derived conditions under which equity-motivated pooling reduces total treatments. Built simulations quantifying efficiency losses when criteria are violated, highlighting risks of purely equity-driven allocation rules.
+Analyzed blood allocation rules to quantify trade-offs between equity and efficiency. Used simulations to show when equity-driven pooling reduces the total number of patients treated, highlighting risks of well-intentioned but inefficient allocation policies.
 
 [Paper] • [Code]  
 *Methods:* mechanism design • simulation
