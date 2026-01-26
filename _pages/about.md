@@ -28,7 +28,7 @@ Taught graduate-level courses in microeconomics, econometrics, time series analy
 Analyzed how beliefs and truth-telling shape outcomes in priority pricing systems, combining economic modeling with online experiments to identify when such mechanisms improve overall outcomes.
  
 **Methods:** game theory • experimental design • simulation  
-[Working Paper] • [Code] 
+[Working Paper](/files/JMP_Thami.pdf) • [Code](https://github.com/prakritithami/priority_pricing) 
 
 
 
