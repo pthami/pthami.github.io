@@ -24,8 +24,12 @@ Taught graduate-level courses in microeconomics, econometrics, time series analy
 ## Selected Research & Applied Work
 
 ### Incentives and truth-telling in priority pricing systems
-Analyzed how behavioral preferences and beliefs affect welfare outcomes in priority pricing mechanisms. Combined theoretical modeling with online experiments to identify when incentive schemes improve allocation efficiency, showing that beliefs about others’ behavior are central to observed outcomes.  
-**Methods:** game theory · experimental design · simulation
+*(Working paper)*
+
+Analyzed how beliefs and truth-telling behavior shape welfare outcomes in priority pricing systems. Combined economic modeling with online experiments to identify when incentive schemes improve allocation efficiency.
+
+[Paper] • [Code]  
+*Methods:* game theory • experimental design • simulation
 
 
 
