@@ -17,7 +17,7 @@ Workflow — Jupyter notebooks · Qualtrics · Excel · Power BI · LaTeX
 
 
 ## Teaching
-Graduate-level teaching in microeconomics, econometrics, time series analysis, and empirical finance.
+Taught graduate-level courses in microeconomics, econometrics, time series analysis, and empirical finance.
 
 
 
