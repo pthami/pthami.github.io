@@ -109,3 +109,14 @@ body {
   margin-top: 2rem;
   margin-bottom: 0.4rem;
 }
+
+/* Ensure content is not clipped at the bottom */
+.page,
+.page__inner-wrap,
+.page__content {
+  overflow: visible !important;
+}
+
+.page__content {
+  padding-bottom: 4rem;
+}
