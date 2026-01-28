@@ -25,7 +25,7 @@ Analyzed how beliefs and truth-telling shape outcomes in priority pricing system
 **Methods:** Game theory • Experimental design • Simulation  
 **Links:** [Working Paper](/files/JMP_Thami.pdf) • [Code](https://github.com/prakritithami/priority_pricing) 
 
-
+---
 
 ### Pricing design and provider incentives in publicly funded services
 
@@ -34,6 +34,7 @@ Developed and optimized pricing schemes to show how reimbursement design affects
 **Methods:** Theoretical modeling • Optimization • Numerical analysis  
 **Links:** [Paper (Economic Modelling, 2024)](https://www.sciencedirect.com/science/article/pii/S0264999324002736) • [Code](https://data.mendeley.com/datasets/rx35j3j8nr/2)  
 
+---
 
 ### Equity–efficiency trade-offs in blood supply allocation
 
