@@ -1,6 +1,10 @@
 ---
 ---
 
+/* =========================
+   Imports (do not modify)
+   ========================= */
+
 @import "vendor/breakpoint/breakpoint";
 @import "variables";
 @import "mixins";
@@ -38,6 +42,19 @@ body {
                Roboto, Helvetica, Arial, sans-serif;
   font-size: 17px;
   line-height: 1.6;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* --- Kill masthead completely (visual + layout) --- */
+.masthead {
+  display: none !important;
+}
+
+#main,
+.page__inner-wrap {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
 }
 
 /* --- Sidebar avatar --- */
@@ -82,30 +99,13 @@ body {
   font-weight: 500;
   margin-top: 3rem;
   margin-bottom: 1.5rem;
-  position: relative;
-  padding-bottom: 0.75rem;
-}
-
-/* Visible underline under section headings */
-.page__content h2 {
+  padding-bottom: 0.6rem;
   border-bottom: 1px solid #d1d5db;
-  padding-bottom: 0.75rem;
-  margin-bottom: 2rem;
 }
 
 .page__content h3 {
   font-size: 1.05rem;
   font-weight: 500;
   margin-top: 2rem;
-  margin-bottom: 0.25rem;
-}
-
-/* --- Remove header/masthead completely --- */
-.masthead {
-  display: none !important;
-}
-
-body {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
+  margin-bottom: 0.4rem;
 }
