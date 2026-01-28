@@ -110,13 +110,18 @@ body {
   margin-bottom: 0.4rem;
 }
 
-/* Ensure content is not clipped at the bottom */
-.page,
-.page__inner-wrap,
-.page__content {
-  overflow: visible !important;
+/* Fix layout after removing masthead */
+.sidebar.sticky {
+  position: relative !important;
+  top: auto !important;
+  height: auto !important;
+}
+
+/* Ensure page can grow fully */
+#main {
+  min-height: 100vh;
 }
 
 .page__content {
-  padding-bottom: 4rem;
+  padding-bottom: 6rem;
 }
